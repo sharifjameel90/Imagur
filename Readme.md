@@ -27,6 +27,6 @@ cd ios/ && pod install && cd ..
 start
 
 ```bash
-npx react-native run-ios
-npx react-native run-android
+react-native run-ios
+react-native run-android
 ```
