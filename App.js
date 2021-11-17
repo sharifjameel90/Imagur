@@ -113,7 +113,7 @@ export default function App() {
       return fetch(`https://bing-image-search1.p.rapidapi.com/images/search?q=${image}&count=${count}`,{
         "method": "GET",
         "headers": {
-          "x-rapidapi-key": "82e25d2101msh0e0b6650251d18bp1ff47cjsnf7a572ee75d9",
+          "x-rapidapi-key": "Your App ID",
           "x-rapidapi-host": "bing-image-search1.p.rapidapi.com"
         }
       })
